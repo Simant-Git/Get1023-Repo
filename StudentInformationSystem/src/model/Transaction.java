@@ -1,2 +1,3 @@
-class Transaction{
+package model;
+public class Transaction{
 }
